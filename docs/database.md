@@ -1,5 +1,8 @@
 ## Data Model Implementation (Android)
 
+Due to errors in XML which prevented running as of the morning of 10/28, I have not
+yet generated a schema or DDL.
+
 ### Description of Entities
 
 * User is the top-level entity, which stores fundamental information such as the user's name, id, and credit score.
@@ -13,8 +16,8 @@ will be a local cache stored in Room for convenient access.
 ### Entity Relationship Diagrams
 Primary keys marked in bold. Foreign keys marked in italics. Nullable attributes marked with N. No attributes outside of primary keys are indexed in this model.   
 
-[Entity Relationship Diagram](/Tab_android_ERD.png)   
-[ERD PDF Version](/Tab_android_ERD.pdf)   
+[Entity Relationship Diagram](/tab_android_ERD_final.png)   
+[ERD PDF Version](/tab_android_ERD_final.pdf)   
 
 ### Source Code
 [Entity Classes](https://github.com/dannyseymour/Tab/tree/master/app/src/main/java/io/discordia/tab/model/entity)   
