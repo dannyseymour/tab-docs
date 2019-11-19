@@ -16,8 +16,8 @@ will be a local cache stored in Room for convenient access.
 ### Entity Relationship Diagrams
 Primary keys marked in bold. Foreign keys marked in italics. Nullable attributes marked with N. No attributes outside of primary keys are indexed in this model.   
 
-[Entity Relationship Diagram](/tab_android_ERD_final.png)   
-[ERD PDF Version](/tab_android_ERD_final.pdf)   
+[Entity Relationship Diagram](/REAL FINAL TAB ERD.png)   
+[ERD PDF Version](/REAL FINAL TAB ERD.pdf)   
 
 ### Source Code
 [Entity Classes](https://github.com/dannyseymour/Tab/tree/master/app/src/main/java/io/discordia/tab/model/entity)   
