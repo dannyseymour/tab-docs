@@ -8,6 +8,8 @@ Retrofit also relies on GSON for serializing.
 
 ###GSON
 [Link to License](https://github.com/google/gson/blob/master/LICENSE)
+
+
 ```Copyright 2008 Google Inc.
    
    Licensed under the Apache License, Version 2.0 (the "License");
@@ -22,12 +24,17 @@ Retrofit also relies on GSON for serializing.
    See the License for the specific language governing permissions and
    limitations under the License.
 ```
-__
+
+
+
 ### MPAndroid Chart
 GitHub repository:
 https://github.com/PhilJay/MPAndroidChart
 
 License:
+
+
+
 ```
 Copyright 2019 Philipp Jahoda
 
@@ -40,8 +47,12 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 ```
 
+
+
 ###Retrofit
 [Link to License](https://github.com/square/retrofit/blob/master/LICENSE.txt)
+
+
 ```
 Copyright 2013 Square, Inc.
    
@@ -59,8 +70,13 @@ Copyright 2013 Square, Inc.
 ```
 
 
+
+
 ### Plaid Java Bindings
 [Link to License](https://github.com/plaid/plaid-java/blob/master/LICENSE)
+
+
+
 ```The MIT License
    
    Copyright (c) 2014-2017 Plaid Technologies, Inc. <support@plaid.com>
