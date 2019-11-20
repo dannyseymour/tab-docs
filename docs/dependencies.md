@@ -22,7 +22,7 @@ Retrofit also relies on GSON for serializing.
    See the License for the specific language governing permissions and
    limitations under the License.
 ```
-
+__
 ### MPAndroid Chart
 GitHub repository:
 https://github.com/PhilJay/MPAndroidChart

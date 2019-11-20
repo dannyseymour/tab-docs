@@ -25,8 +25,8 @@ App will not call intent to go into transactions and charting view/ 11/20/19
 ## Table of Contents
 
 * [Intended Users and User Stories](/docs/docs/user-stories.md)  
-* [User Instructions](/docs/user instructions.md) 
-* [Build instructions](/docs/build instructions.md)
+* [User Instructions](/docs/userinstructions.md) 
+* [Build instructions](/docs/buildinstructions.md)
 * [Implementation info](/docs/implementation.md)
 * [User Experience Walkthrough and Wireframes](/docs/ux.md)
 * [Data Model Implementation, ERDs, DDL](/docs/database.md)
