@@ -19,7 +19,8 @@ once my schedule frees up after the bootcamp. Here is the description I wrote fo
    to access payday financing without the usual extreme interest rates those services entail. By leveraging the power of user data, a more accurate measurement of risk can help lower
    transaction costs and information problems in microfinance and credit risk analysis.
 ```
-
+## Known Bugs
+App will not call intent to go into transactions and charting view/ 11/20/19
 
 ## Table of Contents
 

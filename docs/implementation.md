@@ -8,4 +8,4 @@
 
 *[Main Application](https://github.com/dannyseymour/TabBootcampRealFinal/blob/master/app/src/main/java/io/discordia/tab/TabApplication.java)  
  
-*[Main Navigation Activity (Presently the launcher application, though this will probably change)](https://github.com/dannyseymour/TabBootcampRealFinal/blob/master/app/src/main/java/io/discordia/tab/viewmodel/NavigationActivity.java)
+*[Primary Activity as of current iteration)](https://github.com/dannyseymour/TabBootcampRealFinal/blob/master/app/src/main/java/edu/cnm/deepdive/tabbootcamprealfinal/controller/accountview/listviewitems/accountview/AccountViewActivity.java)
