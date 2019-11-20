@@ -3,7 +3,8 @@
 ## Project Description
 Tab is a personal finance app which uses the Plaid API to fetch users' account data and MPAndroidCharts to display that data. There 
 are plans for a payments function which as of 11/19 is not yet functional, but the basic implementation has been started. 
-
+Currently, the app connects to any bank through the sandbox user account, and pulls a list of dummy transactions, account balances, etc.
+The user can view each account with its balance, then click into a more detailed view including charts tracking spending by Category.
 
 Ultimately, I believe I might have a good business model with this app for a startup, but it will need more time and work
 once my schedule frees up after the bootcamp. Here is the description I wrote for my vision of the finished product:
@@ -22,10 +23,14 @@ once my schedule frees up after the bootcamp. Here is the description I wrote fo
 
 ## Table of Contents
 
-* [Intended Users and User Stories](/docs/user-stories.md)   
+* [Intended Users and User Stories](/docs/docs/user-stories.md)  
+* [User Instructions](/docs//user instructions.md) 
+* [Build instructions](/docs//build instructions.md)
+* [Implementation info](/docs//implementation.md)
 * [User Experience Walkthrough and Wireframes](/docs/ux.md)
 * [Data Model Implementation, ERDs, DDL](/docs/database.md)
 * [Implementation, API Descriptions, and Links to Related Repositories](/docs/implementation.md)
+* [Dependencies and Copyright Information](/dependencies.md)
 
 
 ## Summary of the Current State of the App
