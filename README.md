@@ -31,7 +31,7 @@ App will not call intent to go into transactions and charting view/ 11/20/19
 * [User Experience Walkthrough and Wireframes](/docs/ux.md)
 * [Data Model Implementation, ERDs, DDL](/docs/database.md)
 * [Implementation, API Descriptions, and Links to Related Repositories](/docs/implementation.md)
-* [Dependencies and Copyright Information](/dependencies.md)
+* [Dependencies and Copyright Information](/docs/dependencies.md)
 
 
 ## Summary of the Current State of the App
